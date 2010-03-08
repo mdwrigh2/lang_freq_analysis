@@ -1,1 +1,4 @@
 The idea of this project is to get some frequency analysis of a few different programming languages in order to compare them to each other and the english language. This spawned out of a pre-dinner conversation about some crypto challenges that encrypt their source code (and thus if you knew the language, a frequency analysis of the characters used could be a useful aid in decrypting).
+
+
+Note that your own github.yml will need to be added.
